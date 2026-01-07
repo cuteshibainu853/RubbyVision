@@ -3,7 +3,7 @@
 
 ##########################RubbyVision##########################
 
-#EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" ch-number="1" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HH
+#EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" ch-number="1" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
