@@ -223,7 +223,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
 
-#EXTINF:-1 tvg-id="TV MU.id" group-title="Religion" ch-number="31" tvg-logo="https://www.visionplus.id/images/repository/885/522885-LOGO-m.png",tvMu
+#EXTINF:-1 tvg-id="TV MU.id" group-title="Religion" ch-number="31" tvg-logo="https://www.visionplus.id/images/repository/191/514191-LOGO-m.png",tvMu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
